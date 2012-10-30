@@ -1,0 +1,10 @@
+<app>
+        <id>%s</id>
+        <url>%s</url>
+        <name><![CDATA[%s]]></name>
+        <category>%s</category>
+        <subcategory> %s</subcategory>
+        <description><![CDATA[%s]]></description>
+        <whats-new><![CDATA[%s]]></whats-new>
+</app>
+

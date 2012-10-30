@@ -1,0 +1,40 @@
+<app>
+        <id>%s</id>
+        <icon>%s</icon>
+        <url>%s</url>
+        <name><![CDATA[%s]]></name>
+        <price>%s</price>
+        <category>%s</category>
+        <subcategory> %s</subcategory>
+        <Updated>%s</Updated>
+        <version>%s</version>
+        <size>%s</size>
+        <languages><![CDATA[%s]]></languages>
+        <seller><![CDATA[%s]]></seller>
+        <copyright><![CDATA[%s]]></copyright>
+        <app-rating>
+            <des><![CDATA[%s]]></des>
+            <reasons><![CDATA[%s]]></reasons>
+        </app-rating>
+        <requirements><![CDATA[%s]]></requirements>
+        <customer-ratings>
+            <current>
+                <cstars>%s</cstars>
+                <crating-counts>%s</crating-counts>
+            </current>
+            <all>
+                <stars>%s</stars>
+                <rating-counts>%s</rating-counts>
+            </all>
+        </customer-ratings>
+        <description><![CDATA[%s]]></description>
+        <whats-new><![CDATA[%s]]></whats-new>
+        <screenshots>
+        %s
+        %s
+        </screenshots>
+        <reviews>
+        %s
+        </reviews>
+</app>
+
